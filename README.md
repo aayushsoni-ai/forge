@@ -113,8 +113,8 @@ Users get a live Sandpack preview, a persistent chat history, image upload suppo
 ### Installation
 
 ```bash
-git clone https://github.com/aayushsoni-ai/FORGE.git
-cd FORGE
+git clone https://github.com/aayushsoni-ai/forge.git
+cd forge
 npm install
 ```
 
